@@ -1,0 +1,94 @@
+{
+    "accounts": [
+        {
+            "id": 1,
+            "nome": "João Silva",
+            "email": "joao.silva@example.com",
+            "username": "joaosilva",
+            "senha": "senha123",
+            "saldo": 1500.75,
+            "ativo": true
+        },
+        {
+            "id": 2,
+            "nome": "Maria Oliveira",
+            "email": "maria.oliveira@example.com",
+            "username": "mariaoliveira",
+            "senha": "senha456",
+            "saldo": 3200.00,
+            "ativo": true
+        },
+        {
+            "id": 3,
+            "nome": "Pedro Santos",
+            "email": "pedro.santos@example.com",
+            "username": "pedrosantos",
+            "senha": "senha789",
+            "saldo": 850.50,
+            "ativo": false
+        },
+        {
+            "id": 4,
+            "nome": "Ana Costa",
+            "email": "ana.costa@example.com",
+            "username": "anacosta",
+            "senha": "ana12345",
+            "saldo": 4700.25,
+            "ativo": true
+        },
+        {
+            "id": 5,
+            "nome": "Lucas Pereira",
+            "email": "lucas.pereira@example.com",
+            "username": "lucaspereira",
+            "senha": "lucas123",
+            "saldo": 120.00,
+            "ativo": true
+        },
+        {
+            "id": 6,
+            "nome": "Beatriz Almeida",
+            "email": "beatriz.almeida@example.com",
+            "username": "beatrizalmeida",
+            "senha": "bia123456",
+            "saldo": 2850.90,
+            "ativo": false
+        },
+        {
+            "id": 7,
+            "nome": "Gabriel Rodrigues",
+            "email": "gabriel.rodrigues@example.com",
+            "username": "gabrielrodrigues",
+            "senha": "gabriel321",
+            "saldo": 950.00,
+            "ativo": true
+        },
+        {
+            "id": 8,
+            "nome": "Juliana Ferreira",
+            "email": "juliana.ferreira@example.com",
+            "username": "julianaferreira",
+            "senha": "juli12345",
+            "saldo": 6100.80,
+            "ativo": true
+        },
+        {
+            "id": 9,
+            "nome": "Rafael Gomes",
+            "email": "rafael.gomes@example.com",
+            "username": "rafaelgomes",
+            "senha": "rafael987",
+            "saldo": 430.65,
+            "ativo": false
+        },
+        {
+            "id": 10,
+            "nome": "Camila Martins",
+            "email": "camila.martins@example.com",
+            "username": "camilamartins",
+            "senha": "camila123",
+            "saldo": 3750.40,
+            "ativo": true
+        }
+    ]
+}
